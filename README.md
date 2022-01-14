@@ -1,6 +1,6 @@
 # Análise de Sentimentos - Trabalho de Conclusão de Curso
 
-Realização de uma análise de sentimentos no Twitter para verificar os principais sentimentos dos brasileiros no período de 4 de fevereiro a 7 de março de 2021. 
+Análise de sentimentos no Twitter para verificar os principais sentimentos dos brasileiros com relação à pandemia da Covid-19 no período de 4 de fevereiro a 7 de março de 2021. 
 
 A análise foi de polaridade (positivo, negativo, neutro) e com base nos sentimentos de Paul Ekman (raiva, medo, tristeza, nojo, felicidade, surpresa). 
 
